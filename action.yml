@@ -17,7 +17,7 @@ runs:
   using: composite
   steps:
     - name: Setup Zmicro
-      uses: zmicro-design/action-setup-docker@v1
+      uses: zmicro-design/action-setup-zmicro@v1
 
     - name: Setup Docker CLI
       shell: bash
