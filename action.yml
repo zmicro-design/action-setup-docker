@@ -1,4 +1,4 @@
-name: 'Setup Zmicro'
+name: 'Setup Docker (+Buildx) with Zmicro'
 description: 'github action for setuping zmicro'
 author: 'Zero <GitHub: whatwewant>'
 branding:
