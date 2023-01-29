@@ -1,6 +1,6 @@
 {
   "name": "@zcorky/action-setup-docker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "github action for setuping docker",
   "keywords": [
     "action",
